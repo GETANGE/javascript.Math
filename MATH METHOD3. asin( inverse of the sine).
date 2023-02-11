@@ -1,0 +1,6 @@
+ //MATH METHOD3. asin( inverse of the sine).
+  let number3=Math.asin(-1);//negative angles.
+   console.log(number3);
+
+   let number4=Math.asin(1);//positive angles.
+    console.log(number4);
