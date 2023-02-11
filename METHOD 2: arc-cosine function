@@ -1,0 +1,11 @@
+  //MATH METHOD 2: arc-cosine function(inverse of the cosine function).
+      let value4=Math.acos(0.45);//value parameter should be an angle.
+       console.log(value4);
+
+       //argument greater than 1.
+       const value5=Math.acos(1.3);
+        console.log(value5);//output =NaN. angle must range from(-1 to 1).
+        
+        //Math.acos() with Non-Numeric Argument
+        var string=Math.acos(value5);
+         console.log(string);//output =NaN. the parameter must be numerical value.
