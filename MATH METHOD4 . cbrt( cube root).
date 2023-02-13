@@ -1,0 +1,10 @@
+  //MATH METHOD4 . cbrt( cube root).
+   const number5=Math.cbrt(27);
+    console.log(number5);
+
+    const number6=Math.cbrt(-100);//takes negative number.
+    console.log(number6);
+
+    //cbrt  with numeric string value.
+    var number7=Math.cbrt('189');
+     console.log(number7);
