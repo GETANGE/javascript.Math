@@ -1,0 +1,10 @@
+ //METHOD5.ceil(rounding off to the nearest interger).
+   let number8=Math.ceil(3.4);
+   console.log(number8);
+
+    let number9=Math.ceil(-3.4);//takes negative number.
+    console.log(number9);
+
+    //takes a numeric string number.
+    let number10=Math.ceil('23.4');
+    console.log(number10);
